@@ -2,10 +2,11 @@
 
  Hi 👋 
 ------------------------------------
-<pre>
- I've been learning to use public data to make machine learning models, tune hyperparameters, and lastly, of course, make predictions!
- I hope to benefit all with ethical AI &#127759;
-</pre>
+
+I've been learning to use public data to make machine learning models, tune hyperparameters, and lastly, of course, make predictions!
+<br></br>
+I hope to benefit all with ethical AI &#127759;
+
 
 *   &#128510;  I'm based in Japan and in university
 *   ✉️  You can contact me at [nobuyanish@gmail.com](mailto:nobuyanish@gmail.com)
