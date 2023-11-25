@@ -1,9 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=NobuyaNishio&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Nobuya Nishio&fontSize=90" />
 
-Hi 👋 My name is Nobuya 
-==============================
-
-<p style="font-family: Serif">Interested in Machine learning and AI</p>
+Hi 👋 
+Interested in Machine learning and AI
 ------------------------------------
 
 I've been learning to use public data to make machine learning models, tune hyperparameters, and lastly, of course, make predictions!
