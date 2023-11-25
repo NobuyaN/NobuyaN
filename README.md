@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=blue&height=300&section=header&text=NobuyaNishio&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=_00008B&height=300&section=header&text=NobuyaNishio&fontSize=90" />
 
 Hi 👋 My name is Nobuya 
 ==============================
