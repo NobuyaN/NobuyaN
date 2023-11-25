@@ -1,17 +1,16 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=add8e6&height=200&section=header&text=Nobuya%20Nishio&fontSize=90&fontColor=102c35" />
 
-## Hi 👋 
-
+ Hi 👋 
 ------------------------------------
 
 I've been learning to use public data to make machine learning models, tune hyperparameters, and lastly, of course, make predictions!
 
-*   🌍  I'm based in Japan
+*   🌍  I'm based in Japan and in university
 *   ✉️  You can contact me at [nobuyanish@gmail.com](mailto:nobuyanish@gmail.com)
-*   🧠  I'm learning mathematical theories behind backpropagation for the 5th time.
+*   🧠  I'm learning mathematical theories behind backpropagation for the 5th time...
 *   ### Skills
 <p align="left">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" />
+  <a href="https://isocpp.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" />
@@ -19,3 +18,8 @@ I've been learning to use public data to make machine learning models, tune hype
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></p>
 </p>
+
+```python
+if endOfReadme == True:
+  print("The End")
+```
