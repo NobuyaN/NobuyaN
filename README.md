@@ -8,7 +8,7 @@ I hope to benefit all with ethical AI &#127759;
 
 # 
 
-*   🌍  I'm based in Japan and in university
+*   &#128510;  I'm based in Japan and in university
 *   ✉️  You can contact me at [nobuyanish@gmail.com](mailto:nobuyanish@gmail.com)
 *   🧠  I'm learning mathematical theories behind backpropagation for the 5th time...
 *   ### Skills
