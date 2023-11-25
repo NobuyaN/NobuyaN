@@ -28,7 +28,7 @@ if endOfDescription == True:
 ```
 <pre>
  Traceback (most recent call last):
-  File "d:\githubrepo\ML_models\test.py", line 1, in <module>
+  File "d:\codes\pythons\conclusion.py", line 1, in <module>
     if endofDescription == True:
        ^^^^^^^^^^^^^^^^
  NameError: name 'endofDescription' is not defined
