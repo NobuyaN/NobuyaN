@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Nobuya%20Nishio&fontSize=90&fontColor=add8e6&fontAlignY=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=102c35&height=200&section=header&text=Nobuya%20Nishio&fontSize=90&fontColor=add8e6" />
 
 Hi 👋 
 Interested in Machine learning and AI
