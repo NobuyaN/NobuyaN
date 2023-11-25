@@ -26,3 +26,10 @@ I hope to benefit all with ethical AI &#127759;
 if endOfReadme == True:
   print("The End")
 ```
+<p>
+ Traceback (most recent call last):
+  File "d:\githubrepo\ML_models\test.py", line 1, in <module>
+    if endofReadme == True:
+       ^^^^^^^^^^^
+ NameError: name 'endofReadme' is not defined
+</p>
