@@ -1,7 +1,7 @@
-Hi 👋 My name is Nobuya Nishio
+Hi 👋 My name is Nobuya 
 ==============================
 
-<div style="font-family: Serif">Interested in Machine learning and AI</div>
+<p style="font-family: Serif">Interested in Machine learning and AI</p>
 ------------------------------------
 
 I've been learning to use public data to make machine learning models, tune hyperparameters, and lastly, of course, make predictions!
