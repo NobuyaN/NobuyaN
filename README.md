@@ -13,7 +13,7 @@ I hope to benefit all with ethical AI &#127759;
 *   🧠  I'm learning mathematical theories behind backpropagation for the 5th time...
 *   ### Skills
 <p align="left">
-  <a href="https://isocpp.org/", target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
+  <a href="https://isocpp.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" />
@@ -23,13 +23,13 @@ I hope to benefit all with ethical AI &#127759;
 </p>
 
 ```python
-if endOfReadme == True:
+if endOfDescription == True:
   print("The End")
 ```
 <pre>
  Traceback (most recent call last):
   File "d:\githubrepo\ML_models\test.py", line 1, in <module>
-    if endofReadme == True:
-       ^^^^^^^^^^^
- NameError: name 'endofReadme' is not defined
+    if endofDescription == True:
+       ^^^^^^^^^^^^^^^^
+ NameError: name 'endofDescription' is not defined
 </pre>
