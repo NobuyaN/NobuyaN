@@ -51,4 +51,4 @@ if endOfDescription == True:
  NameError: name 'endofDescription' is not defined
 </pre>
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=add8e6&height=200&section=header&text=Nobuya%20Nishio&fontSize=90&fontColor=102c35" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=add8e6&height=200&section=header&fontSize=90&rotate=180"/>
