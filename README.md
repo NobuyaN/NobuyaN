@@ -42,6 +42,7 @@ I hope to benefit all with ethical AI &#127759;
 *  Jupyter Notebook
 *  Visual Studio Code
 *  Pycharm
+*  git
 ------------------------------------
 ```python
 if endOfDescription == True:
