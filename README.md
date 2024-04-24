@@ -13,14 +13,3 @@ I hope to benefit all with ethical AI &#127759;
 *   🧠  I'm currently learning LLMs and Transformer Architecture!
 
 ------------------------------------
-```python
-if endOfDescription == True:
-  print("The End")
-```
-<pre>
- Traceback (most recent call last):
-  File "d:\codes\pythons\conclusion.py", line 1, in <module>
-    if endofDescription == True:
-       ^^^^^^^^^^^^^^^^
- NameError: name 'endofDescription' is not defined
-</pre>
